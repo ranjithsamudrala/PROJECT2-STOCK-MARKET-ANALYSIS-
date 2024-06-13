@@ -4,7 +4,8 @@
 
 # Reliance-Stock-Market-Prediction 
 
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.businesstoday.in%2Fmarkets%2Fmarket-commentary%2Fstory%2Findian-stock-markets-share-in-global-m-cap-jumps-to-4-what-does-it-mean-416367-2024-02-06&psig=AOvVaw31Fjl3lDpHyXyidAlc2T4q&ust=1718368974705000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjdg9vN2IYDFQAAAAAdAAAAABAE)
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moneycontrol.com%2Fnews%2Fbusiness%2Fmarkets%2Findias-market-capitalization-doubles-in-5-years-challenging-hong-kongs-position-11881151.html&psig=AOvVaw31Fjl3lDpHyXyidAlc2T4q&ust=1718368974705000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjdg9vN2IYDFQAAAAAdAAAAABAJ)
+
 
 <h3>Hey Folks,👨🏻‍💻</h3>
 <p>The project "Reliance Stock Market Prediction" is a notable achievement that focuses on predicting the stock prices of Reliance Industries Limited for the next 30 days. I developed this project during an internship, utilizing a variety of data analysis and machine learning techniques to forecast stock prices based on historical data.</p>
