@@ -4,7 +4,7 @@
 
 # Reliance-Stock-Market-Prediction 
 
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moneycontrol.com%2Fnews%2Fbusiness%2Fmarkets%2Findias-market-capitalization-doubles-in-5-years-challenging-hong-kongs-position-11881151.html&psig=AOvVaw31Fjl3lDpHyXyidAlc2T4q&ust=1718368974705000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjdg9vN2IYDFQAAAAAdAAAAABAJ)
+![stock market]()
 
 
 <h3>Hey Folks,👨🏻‍💻</h3>
