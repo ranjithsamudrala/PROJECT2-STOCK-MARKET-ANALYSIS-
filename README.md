@@ -4,7 +4,7 @@
 
 # Reliance-Stock-Market-Prediction 
 
-![stock market]()
+![Banner](https://github.com/ranjithsamudrala/images/blob/main/stock.webp)
 
 
 <h3>Hey Folks,👨🏻‍💻</h3>
